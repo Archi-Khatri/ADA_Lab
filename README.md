@@ -1,9 +1,13 @@
 # Analysis and Design of Algorithms — Lab Programs
 
 **Course:** Analysis and Design of Algorithms (23CS4PCADA)
+
 **Institution:** B.M.S. College of Engineering, Bengaluru (Autonomous Institution under VTU)
+
 **Student:** Archi R Khatri (1BM24CS051)
+
 **Department:** Computer Science and Engineering
+
 **Academic Year:** 2025–26 (February to June 2026)
 
 ---
